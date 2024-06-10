@@ -2,8 +2,7 @@
 
 ## Table of Contents
 1. [Introduction](#introduction-)
-2. [How to Get Started](#how-to-get-started)
-3. [Your Cloud Resume Challenge: Host Your Static Website on AWS](#your-cloud-resume-challenge-host-your-static-website-on-aws)
+2. [Your Cloud Resume Challenge: Host Your Static Website on AWS](#your-cloud-resume-challenge-host-your-static-website-on-aws)
    - [Milestone 1: Deploying with the AWS Console](#milestone-1--deploying-with-the-aws-console-)
      - [Step-by-Step Guide](#step-by-step-guide)
        - [Review the Challenge Requirements](#review-the-challenge-requirements)
@@ -58,6 +57,14 @@ Welcome to the CloudmyTribe Cloud Challenge projects! This initiative is designe
 #### 5. Style Your Resume with CSS
 - **Action**: Apply styling to your resume using [CSS](https://www.w3schools.com/css/). It doesn't have to be fancy, but it should be more than just raw HTML. Feel free to get creative.
 - **Outcome**: A styled HTML resume file.
+#### 6. Resume template check on server
+  - **action**: After writing your html and css/tailwind code,and you want to verify how the front end looks like, install liveserver extension.
+     - move to the side menu on the extensions tab,
+     - search for liverserver extension, click and install it.
+     - this is how it looks like
+     ***
+     ![live server extension](/aws/projects/assets/liveserver.png)
+     ***
 
 #### 6. Deploy Your Resume as a Static Website on S3
 - **Action**: Follow the steps below to deploy your HTML resume as a static website on S3.
